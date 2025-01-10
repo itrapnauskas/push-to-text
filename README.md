@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Audio Transcription System
 
 This project provides a simple real-time audio transcription system using OpenAI's Whisper API. The application captures audio from the microphone, transcribes it into text, and simulates typing the transcribed text where the cursor is focused.
@@ -60,6 +59,3 @@ pip install sounddevice numpy keyboard wave openai pyautogui
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-=======
-# push-to-text
->>>>>>> origin/main
